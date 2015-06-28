@@ -15,6 +15,12 @@
 # along with this program. If not, see <http://www.gnu.org/licenses/>.
 #
 
+"""
+Mucking about with some code to convert fwbuilder files in to HTML.
+
+Michael Fincham <michael.fincham@catalyst.net.nz>
+"""
+
 import sys
 from lxml import etree
 
